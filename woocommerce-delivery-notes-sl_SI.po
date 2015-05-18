@@ -1,0 +1,597 @@
+# This German Language File: Copyright (C) 2011-2013 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the WooCommerce Print Invoices & Delivery Notes Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer WooCommerce und Extensions (Erweiterungen)
+# sowie fuer WordPress-Plugins und -Themes finden Sie unter:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Print Invoice & Delivery Note\n"
+"Report-Msgid-Bugs-To: http://deckerweb.de/kontakt/\n"
+"POT-Creation-Date: 2015-01-31 15:45+0100\n"
+"PO-Revision-Date: 2015-05-18 17:52+0100\n"
+"Last-Translator: johnymas <info@johnymas.info>\n"
+"Language-Team: \n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:41
+msgid "Invoice"
+msgstr "Račun"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:42
+msgid "Invoices"
+msgstr "Računov"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:43
+msgid "Print Invoice"
+msgstr "Natisni račun"
+
+#: ../includes/class-wcdn-print.php:44
+msgid "Print Invoices"
+msgstr "Natisni račune"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:45
+msgid "Invoice created."
+msgstr "Račun ustvarjen"
+
+#: ../includes/class-wcdn-print.php:46
+msgid "Invoices created."
+msgstr "Računi ustvarjeni."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:47
+msgid "Enable Invoices"
+msgstr "Omogoči račun."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:53
+msgid "Delivery Note"
+msgstr "Poročilo o dostavi"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:54
+msgid "Delivery Notes"
+msgstr "Poročila o dostavi"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:55
+msgid "Print Delivery Note"
+msgstr "Natisni poročilo o dostavi"
+
+#: ../includes/class-wcdn-print.php:56
+msgid "Print Delivery Notes"
+msgstr "Natisni poročila o dostavi"
+
+#: ../includes/class-wcdn-print.php:57
+msgid "Delivery Note created."
+msgstr "Poročilo o dostavi ustvarjeno."
+
+#: ../includes/class-wcdn-print.php:58
+msgid "Delivery Notes created."
+msgstr "Poročila o dostavi ustvarjena."
+
+#: ../includes/class-wcdn-print.php:59
+msgid "Enable Delivery Notes"
+msgstr "Omogoči poroćilo o dostavi."
+
+#: ../includes/class-wcdn-print.php:65
+msgid "Receipt"
+msgstr "Prejemnik"
+
+#: ../includes/class-wcdn-print.php:66
+msgid "Receipts"
+msgstr "Prejemniki"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:67
+msgid "Print Receipt"
+msgstr "Natisni prejemnika"
+
+#: ../includes/class-wcdn-print.php:68
+msgid "Print Receipts"
+msgstr "Natisni prejemnike"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:69
+msgid "Receipt created."
+msgstr "Prejemnik kreiran."
+
+#: ../includes/class-wcdn-print.php:70
+msgid "Receipts created."
+msgstr "Prejemniki kreirani."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:71
+msgid "Enable Receipts"
+msgstr "Omogoči prejemnike"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:80
+msgid "Order"
+msgstr "Naročilo"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:81
+msgid "Orders"
+msgstr "Naročila"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-print.php:82 ../includes/class-wcdn-settings.php:157
+msgid "Print Order"
+msgstr "Natisni naročilo"
+
+#: ../includes/class-wcdn-print.php:83
+msgid "Print Orders"
+msgstr "Natisni naročila"
+
+#: ../includes/class-wcdn-settings.php:72
+msgid "Do you really want to reset the counter to zero? This process can't be undone."
+msgstr "Ali res želite števec resetirati na nič? Tega procesa ne bo mogoče razveljaviti."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:102 ../includes/class-wcdn-theme.php:56 ../includes/class-wcdn-theme.php:91
+#: ../includes/wcdn-template-functions.php:127
+msgid "Print"
+msgstr "Natisni"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:176
+#, php-format
+msgid ""
+"You can preview the <a href=\"%1$s\" target=\"%4$s\" class=\"%5$s\">invoice</a>, <a href=\"%2$s\" target=\"%4$s\" "
+"class=\"%5$s\">delivery note</a> or <a href=\"%3$s\" target=\"%4$s\" class=\"%5$s\">receipt</a> template."
+msgstr ""
+"Predogled <a href=\"%1$s\" target=\"%4$s\" class=\"%5$s\">računa</a>, <a href=\"%2$s\" target=\"%4$s\" class="
+"\"%5$s\">poročilo o dostavi</a> ali <a href=\"%3$s\" target=\"%4$s\" class=\"%5$s\">prejemnika</a> template."
+
+#: ../includes/class-wcdn-settings.php:177
+msgid "With the FAQ in the readme file you can learn how to customize the template."
+msgstr ""
+"Oglejte si pogosto zastavljena vprašanja v datoteki README, s tem si boste pridobili znanje kako urediti izgled "
+"računa."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:188
+msgid "Company/Shop Logo"
+msgstr "Podjetje/ Trgovina-Logo"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:194
+msgid "Remove Logo"
+msgstr "Odstrani Logotip"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:195
+msgid "Set Logo"
+msgstr "Nastavi Logotip"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:199
+msgid "A company/shop logo representing your business."
+msgstr "Podjetje/ Trgovina-Logotip, predstavlja vaše poslovanje."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:200 ../includes/class-wcdn-settings.php:213
+#: ../includes/class-wcdn-settings.php:226 ../includes/class-wcdn-settings.php:239
+#: ../includes/class-wcdn-settings.php:252 ../includes/class-wcdn-settings.php:265
+#: ../includes/class-wcdn-settings.php:382 ../includes/class-wcdn-settings.php:397
+#: ../includes/class-wcdn-settings.php:412
+msgid "Note:"
+msgstr "Opozorilo:"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:201
+msgid ""
+"When the image is printed, its pixel density will automatically be eight times higher than the original. This "
+"means, 1 printed inch will correspond to about 288 pixels on the screen. Example: an image with a width of 576 "
+"pixels and a height of 288 pixels will have a printed size of about 2 inches to 1 inch."
+msgstr ""
+"When the image is printed, its pixel density will automatically be eight times higher than the original. This "
+"means, 1 printed inch will correspond to about 288 pixels on the screen. Example: an image with a width of 576 "
+"pixels and a height of 288 pixels will have a printed size of about 2 inches to 1 inch."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:207
+msgid "Company/Shop Name"
+msgstr "Podjetje/Ime trgovine"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:212
+msgid "Your company/shop name for the Delivery Note."
+msgstr "Your company/shop name for the Delivery Note."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:214
+msgid ""
+"Leave blank to use the default Website/Blog title defined in WordPress settings. The name will be ignored when a "
+"Logo is set."
+msgstr ""
+"Leave blank to use the default Website/Blog title defined in WordPress settings. The name will be ignored when a "
+"Logo is set."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:220
+msgid "Company/Shop Address"
+msgstr "Company/Shop Address"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:225
+msgid ""
+"The postal address of the company/shop or even e-mail or telephone, which gets printed right after the company/"
+"shop name."
+msgstr ""
+"The postal address of the company/shop or even e-mail or telephone, which gets printed right after the company/"
+"shop name."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:227
+msgid "Leave blank to not print an address."
+msgstr "Leave blank to not print an address."
+
+#: ../includes/class-wcdn-settings.php:233
+msgid "Complimentary Close"
+msgstr "Complimentary Close"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:238
+msgid ""
+"Add some personal notes, or season greetings or whatever (e.g. Thank You for Your Order!, Merry Christmas!, etc.)."
+msgstr ""
+"Add some personal notes, or season greetings or whatever (e.g. Thank You for Your Order!, Merry Christmas!, etc.)."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:240
+msgid "Leave blank to not print any personal notes."
+msgstr "Leave blank to not print any personal notes."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:246
+msgid "Returns Policy, Conditions, etc"
+msgstr "Returns Policy, Conditions, etc"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:251
+msgid ""
+"Here you can add some more policies, conditions etc. For example add a returns policy in case the client would "
+"like to send back some goods. In some countries (e.g. in the European Union) this is required so please add any "
+"required info in accordance with the statutory regulations."
+msgstr ""
+"Here you can add some more policies, conditions etc. For example add a returns policy in case the client would "
+"like to send back some goods. In some countries (e.g. in the European Union) this is required so please add any "
+"required info in accordance with the statutory regulations."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:253
+msgid "Leave blank to not print any policies or conditions."
+msgstr "Leave blank to not print any policies or conditions."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:259
+msgid "Footer"
+msgstr "Footer"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:264
+msgid ""
+"Add some further footer imprint, e-mail, telephone, copyright notes etc. This makes the printed sheets a bit more "
+"branded."
+msgstr ""
+"Add some further footer imprint, e-mail, telephone, copyright notes etc. This makes the printed sheets a bit more "
+"branded."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:266
+msgid "Leave blank to not print a footer."
+msgstr "Leave blank to not print a footer."
+
+#: ../includes/class-wcdn-settings.php:273
+msgid "Print Options"
+msgstr "Možnosti tiskanja"
+
+#: ../includes/class-wcdn-settings.php:278
+msgid "Types"
+msgstr "Tipi"
+
+#: ../includes/class-wcdn-settings.php:297
+msgid "Theme Options"
+msgstr "Možnosti tem"
+
+#: ../includes/class-wcdn-settings.php:302
+msgid "Print Page Endpoint"
+msgstr "Natisni zaključek strani"
+
+#: ../includes/class-wcdn-settings.php:309
+msgid "The endpoint is appended to the accounts page URL to print the order. It should be unique."
+msgstr "The endpoint is appended to the accounts page URL to print the order. It should be unique."
+
+#: ../includes/class-wcdn-settings.php:315
+msgid "My Account"
+msgstr "Moj račun"
+
+#: ../includes/class-wcdn-settings.php:322
+msgid "Show print button on the \"View Order\" page"
+msgstr "Show print button on the \"View Order\" page"
+
+#: ../includes/class-wcdn-settings.php:329
+msgid "Show print buttons on the \"My Account\" page"
+msgstr "Show print buttons on the \"My Account\" page"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:336 ../includes/wcdn-template-functions.php:254
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../includes/class-wcdn-settings.php:343
+msgid "Show print link in customer emails"
+msgstr "Show print link in customer emails"
+
+#: ../includes/class-wcdn-settings.php:347
+msgid ""
+"This includes the emails for a new, processing and completed order. On top of that the customer invoice email "
+"also includes the link."
+msgstr ""
+"To vključuje E-maile za nova naročila v procesu in zaključena naročila. Na vrhu tega email kupčevega računa "
+"vsebuje povezavo."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:354
+msgid "Order Numbering"
+msgstr "Oštevilčevanje nakupa"
+
+#: ../includes/class-wcdn-settings.php:359
+msgid "Invoice Numbering"
+msgstr "Oštevilčevanje računa"
+
+#: ../includes/class-wcdn-settings.php:367
+msgid "Create invoice numbers"
+msgstr "Kreiraj številke računov"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:374
+msgid "Invoice Number Start"
+msgstr "Številka računa Start"
+
+#: ../includes/class-wcdn-settings.php:381
+msgid "Start the numbering at the specified number."
+msgstr "Start the numbering at the specified number."
+
+#: ../includes/class-wcdn-settings.php:383
+msgid "Use only integers."
+msgstr "Use only integers."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:389
+msgid "Invoice Number Prefix"
+msgstr "Invoice Number Prefix"
+
+#: ../includes/class-wcdn-settings.php:396
+msgid "This text will be prepended to the invoice number."
+msgstr "This text will be prepended to the invoice number."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:398
+msgid "Leave blank to not add a prefix."
+msgstr "Leave blank to not add a prefix."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:404
+msgid "Invoice Number Suffix"
+msgstr "Invoice Number Suffix"
+
+#: ../includes/class-wcdn-settings.php:411
+msgid "This text will be appended to the invoice number."
+msgstr "This text will be appended to the invoice number."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:413
+msgid "Leave blank to not add a suffix."
+msgstr "Leave blank to not add a suffix."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:419
+msgid "Invoice Number Counter"
+msgstr "Invoice Number Counter"
+
+#: ../includes/class-wcdn-settings.php:428
+msgid "Reset Counter …"
+msgstr "Reset Counter …"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:434
+msgid "Sequential Order Number"
+msgstr "Sequential Order Number"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:439
+msgid "Sequential numbering is enabled."
+msgstr "Sequential numbering is enabled."
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-settings.php:441
+#, php-format
+msgid "Install and activate the free <a href=\"%s\">WooCommerce Sequential Order Numbers</a> Plugin."
+msgstr "Install and activate the free <a href=\"%s\">WooCommerce Sequential Order Numbers</a> Plugin."
+
+#: ../includes/class-wcdn-theme.php:106
+msgid "Print your order"
+msgstr "Natisni naročilo"
+
+#: ../includes/class-wcdn-theme.php:112
+msgid "Print:"
+msgstr "Natisni:"
+
+#: ../includes/class-wcdn-theme.php:112
+msgid "Open print view in browser"
+msgstr "Odpri možnost za tiskanje v brskalniku"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-writepanel.php:214
+msgid "Print now"
+msgstr "Natisni"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-writepanel.php:228
+msgid "Order Printing"
+msgstr "Tiskanje naročila"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-writepanel.php:256
+msgid "Invoice number: "
+msgstr "Številka računa:"
+
+# @ woocommerce-delivery-notes
+#: ../includes/class-wcdn-writepanel.php:257
+msgid "Invoice date: "
+msgstr "Račun dne:"
+
+# @ woocommerce-delivery-notes
+#: ../includes/wcdn-template-functions.php:232
+msgid "Invoice Number"
+msgstr "Številka računa"
+
+# @ woocommerce-delivery-notes
+#: ../includes/wcdn-template-functions.php:238
+msgid "Order Number"
+msgstr "Številka naročila"
+
+# @ woocommerce-delivery-notes
+#: ../includes/wcdn-template-functions.php:243
+msgid "Order Date"
+msgstr "Datum nakupa"
+
+# @ woocommerce-delivery-notes
+#: ../includes/wcdn-template-functions.php:248
+msgid "Payment Method"
+msgstr "Način plačila"
+
+#: ../includes/wcdn-template-functions.php:261
+msgid "Telephone"
+msgstr "Telefon"
+
+#: ../includes/wcdn-template-functions.php:294
+msgid "SKU:"
+msgstr "Izd.-Št.:"
+
+#: ../includes/wcdn-template-functions.php:380 ../includes/wcdn-template-functions.php:384
+#, php-format
+msgid "(Includes %s)"
+msgstr "(Vključuje %s)"
+
+#: ../includes/wcdn-template-functions.php:400
+msgid "Refund"
+msgstr "Vračilo"
+
+#: ../includes/wcdn-template-functions.php:412
+msgid "Order Subtotal"
+msgstr "Nakup skupaj"
+
+#: ../templates/print-order/print-content.php:28
+msgid "Billing Address"
+msgstr "Naslov za račun"
+
+# @ woocommerce-delivery-notes
+#: ../templates/print-order/print-content.php:31 ../templates/print-order/print-content.php:40
+msgid "N/A"
+msgstr "k.A."
+
+# @ woocommerce-delivery-notes
+#: ../templates/print-order/print-content.php:37
+msgid "Shipping Address"
+msgstr "Naslov za dostavo"
+
+# @ woocommerce-delivery-notes
+#: ../templates/print-order/print-content.php:70
+msgid "Product"
+msgstr "Izdelek"
+
+#: ../templates/print-order/print-content.php:71
+msgid "Price"
+msgstr "Cena"
+
+#: ../templates/print-order/print-content.php:72
+msgid "Quantity"
+msgstr "Količina"
+
+# @ woocommerce-delivery-notes
+#: ../templates/print-order/print-content.php:73
+msgid "Total"
+msgstr "Skupaj"
+
+#: ../templates/print-order/print-content.php:97
+msgid "Download:"
+msgstr "Download:"
+
+#: ../templates/print-order/print-content.php:98
+#, php-format
+msgid "%s Files"
+msgstr "%s Datotek"
+
+# @ woocommerce-delivery-notes
+#: ../templates/print-order/print-content.php:147
+msgid "Customer Note"
+msgstr "Komentar kupca"
+
+# @ woocommerce-delivery-notes
+#: ../woocommerce-delivery-notes.php:181
+msgid "Go to the settings page"
+msgstr "Pojdi na stran z nastavitvami"
+
+# @ woocommerce-delivery-notes
+#: ../woocommerce-delivery-notes.php:181
+msgid "Settings"
+msgstr "Nastavitve"
+
+#~ msgid "Reset Counter"
+#~ msgstr "Zähler zurücksetzen"
+
+#~ msgid "Do you really want to reset the counter to zero?"
+#~ msgstr "Den Zähler auf Null zurücksetzen?"
+
+#~ msgid "Enable Invoices2"
+#~ msgstr "Rechnungen aktivierend"
+
+#~ msgid "Order created."
+#~ msgstr "Bestellung erstellt."
+
+#~ msgid "Orders created."
+#~ msgstr "Bestellungen erstellt."
+
+#~ msgid "Enable Orders"
+#~ msgstr "Bestellungen aktivieren"
+
+#~ msgid "Front-end Options"
+#~ msgstr "Themeoptionen"
+
+#~ msgid "Open Print View"
+#~ msgstr "Druckansicht öffnen"
+
+#~ msgid "Print Buttons"
+#~ msgstr "Druck-Tasten"
+
+#~ msgid "Add print link to customer emails"
+#~ msgstr "Drucken Link in Kunden-E-Mails "
+
+# @ woocommerce-delivery-notes
+#~ msgid "Delivery note created."
+#~ msgid_plural "%s delivery notes created."
+#~ msgstr[0] "Lieferschein erstellt."
+#~ msgstr[1] "%s Lieferscheine erstellt."
+
+#~ msgid "Already created invoice numbers are not affected by changes."
+#~ msgstr "Bereits erzeugte Rechnungsnummern sind von Änderungen nicht betroffen."
